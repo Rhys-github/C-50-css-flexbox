@@ -1,0 +1,33 @@
+h1{
+    color :rgb(44, 32, 218);
+    
+}
+
+.header{
+    background-color: rgb(160, 167, 166);
+    display: flex;
+    justify-content: space-between ;
+}
+
+body{
+    background-color: gray;
+}
+p{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly ;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
